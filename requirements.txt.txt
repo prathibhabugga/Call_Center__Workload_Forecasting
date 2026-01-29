@@ -1,7 +1,5 @@
-Libraries
 streamlit
 pandas
 numpy
 matplotlib
 scikit-learn
-textblob
